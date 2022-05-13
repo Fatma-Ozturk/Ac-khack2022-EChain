@@ -1,2 +1,2 @@
-# Ac-khack2022-EChain
-Acıkhack2022 - Hackathon - Echain Project
+# Acikhack2022-EChain
+Acikhack2022 - Hackathon - Echain Project
